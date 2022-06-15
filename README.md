@@ -1,3 +1,4 @@
+![texto](https://raw.githubusercontent.com/mykolaharmash/git-jump/main/img/readme-banner.png)
 # Sobre Mim
 
 - 👋 Me chamo Luiz Kayky.
